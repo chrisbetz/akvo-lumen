@@ -1,5 +1,6 @@
 (defproject org.akvo/lumen "0.27.0-SNAPSHOT"
   :description "Akvo Lumen backend"
+  
   :url "https://github.com/akvo/akvo-lumen"
   :license {:name "GNU Affero General Public License 3.0"
             :url "https://www.gnu.org/licenses/agpl-3.0.html"}
